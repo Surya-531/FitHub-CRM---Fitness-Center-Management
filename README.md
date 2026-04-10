@@ -205,4 +205,4 @@ cd backend && npm run dev
 
 ---
 
-*Naan Mudhalvan Program — Team: CIT Synergits*
+*Naan Mudhalvan Program*
